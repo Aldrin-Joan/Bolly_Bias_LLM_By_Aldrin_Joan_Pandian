@@ -63,12 +63,9 @@ pip install -r requirements.txt
 |Phase|	Output File(s)|	Description|
 |Phase 1|	cleaned_script_data.csv	|Cleaned and structured dataset with movie lines.|
 |Phase 2|	ai_stereotype_annotated_final.csv	|Each line labeled with one of 5 stereotype types.|
-|Phase 3|	bias_scores_by_gender.csv 
-bias_scores_overall.csv
-bias_trends_overall.png|	Bias quantification CSVs and trend visualization PNG.|
+|Phase 3|	bias_scores_by_gender.csv, bias_scores_overall.csv, bias_trends_overall.png|	Bias quantification CSVs and trend visualization PNG.|
 |Phase 4A|	phase4a_rewrites.csv|	Model-suggested rewrites for biased lines.|
-|Phase 4B|	feedback_report.csv
-feedback_report.pdf|	Ranked fixes and severity report (tabular + PDF).|
+|Phase 4B|	feedback_report.csv, feedback_report.pdf|	Ranked fixes and severity report (tabular + PDF).|
 
 ---
 
