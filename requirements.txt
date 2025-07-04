@@ -1,0 +1,11 @@
+transformers==4.41.1
+torch>=2.0.0
+sentencepiece
+huggingface_hub==0.22.2
+reportlab==4.1.0
+pymupdf==1.23.24
+spacy==3.7.4
+gender-guesser==0.4.0
+pandas==2.2.2
+matplotlib==3.9.0
+tqdm==4.66.4
